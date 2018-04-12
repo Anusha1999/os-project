@@ -71,4 +71,3 @@ int main()
             printf("%d\t%d\t%d\t\t%d\t%d\n", queue[i].process_name, queue[i].at, queue[i].bt,     queue[i].type, queue[i].wai_t);
       }
     }
-
